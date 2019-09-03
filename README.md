@@ -1,0 +1,2 @@
+# Computa-o_Distribuida
+Aplicação desenvolvida como trabalho final da disciplina de Computação  Distribuída ministrada por Dr.Prof. Milton Hirokazu Shimabukuro do curso de  Ciências da Computação da UNESP(Universidade Estadual Paulista) "Júlio  * Mesquita Filho" - Câmpus de Presidente Prudente. Com o intuito de concretizar  * o aprendizado da matéria, objetivo da aplicação é ter um servidor que irá  * invocar métodos remotos (RMI (Remote Method Invocation)) para atender  requisições de seus clientes conectados via TCP.
